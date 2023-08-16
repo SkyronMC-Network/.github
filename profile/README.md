@@ -4,9 +4,13 @@
 <summary>Guide</summary>
 <br>
   • Who are we?
+<br>
   • What is our Mission?
+<br>
   • Repositories & Open Source
+<br>
   • Client
+<br>
   • Website / Applications
 </details>
 <details open>
