@@ -7,7 +7,7 @@
 <details open>
 <summary>Guide 📋</summary>
   <ol>
-    <li><a href="aboutus">• Who are we?</a></li>
+    <li><a href="#aboutus">• Who are we?</a></li>
     <li><a href="#What is our Mission?">• What is our Mission?</a></li>
     <li><a href="#Repositories & Open Source">• Repositories & Open Source</a></li>
     <li><a href="#Client">• Client</a></li>
