@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<details open>
+<summary>test</summary>
+<br>
+test
+</details>
 <!--
 
 **Here are some ideas to get you started:**
