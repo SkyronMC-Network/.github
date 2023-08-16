@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center"## Compass 🧭</h2>
+  <h2 align="center">## Compass 🧭</h2>
 </div>
 
 <!-- Table of Contents -->
@@ -24,5 +24,5 @@
 
 <!-- Who are we? -->
 <div align="center">
-  <h2 align="center"## Who are we? 🔍</h2>
+  <h2 align="center">## Who are we? 🔍</h2>
 </div>
