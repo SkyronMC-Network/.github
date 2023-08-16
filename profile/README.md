@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Compass 🧭</h2>
+  <h2 align="center" id="compass">Compass 🧭</h2>
 </div>
 
 <!-- Table of Contents -->
@@ -7,7 +7,7 @@
 <details open>
 <summary>Guide 📋</summary>
   <ol>
-    <li><a href="#About us 🔍">• Who are we?</a></li>
+    <li><a href="aboutus">• Who are we?</a></li>
     <li><a href="#What is our Mission?">• What is our Mission?</a></li>
     <li><a href="#Repositories & Open Source">• Repositories & Open Source</a></li>
     <li><a href="#Client">• Client</a></li>
@@ -24,5 +24,5 @@
 
 <!-- Who are we? -->
 <div align="center">
-  <h2 align="center">About us 🔍</h2>
+  <h2 align="center" id="aboutus">About us 🔍</h2>
 </div>
