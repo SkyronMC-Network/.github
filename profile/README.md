@@ -8,10 +8,11 @@
 <summary>Guide 📋</summary>
   <ol>
     <li><a href="#aboutus">• Who are we?</a></li>
-    <li><a href="#What is our Mission?">• What is our Mission?</a></li>
-    <li><a href="#Repositories & Open Source">• Repositories & Open Source</a></li>
-    <li><a href="#Client">• Client</a></li>
-    <li><a href="#Website / Applications">• Website / Applications</a></li>
+    <li><a href="#mission">• What is our Goal?</a></li>
+    <li><a href="#reponsource">• Repositories & Open-Source</a></li>
+    <li><a href="#client">• Client</a></li>
+    <li><a href="#webappl">• Website / Applications</a></li>
+    <li><a href="https://will-be-added-later.de">• Contact</a></li>
   </ol>
 </details>
 
@@ -22,7 +23,27 @@
 </ol>
 </details>
 
-<!-- Who are we? -->
+<!-- About Us -->
 <div align="center">
   <h2 align="center" id="aboutus">About us 🔍</h2>
+</div>
+
+<!-- What is our Mission? -->
+<div align="center">
+  <h2 align="center" id="mission">What is our Goal? 📈</h2>
+</div>
+
+<!-- Repositories & Open Source -->
+<div align="center">
+  <h2 align="center" id="reponsource">Repositories & Open-Source 💡</h2>
+</div>
+
+<!-- Client -->
+<div align="center">
+  <h2 align="center" id="client">Client 💻</h2>
+</div>
+
+<!-- Website / Applications -->
+<div align="center">
+  <h2 align="center" id="webappl">Website & Applications 📝</h2>
 </div>
