@@ -2,10 +2,14 @@
 
 <details open>
 <summary>Guide</summary>
-  [• Who are we?](https://hello.ca)
+  <br>[• Who are we?](https://hello.ca)</br>
+<br>
   • What is our Mission?
+<br>
   • Repositories & Open Source
+<br>
   • Client
+<br>
   • Website / Applications
 </details>
 <details open>
