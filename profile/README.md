@@ -1,9 +1,18 @@
-## Hi there 👋
+## Compass 🧭
 
 <details open>
-<summary>test</summary>
+<summary>Guide</summary>
 <br>
-test
+  • Who are we?
+  • What is our Mission?
+  • Repositories & Open Source
+  • Client
+  • Website / Applications
+</details>
+<details open>
+<summary>Open-Source Projects</summary>
+<br>
+  • N/A
 </details>
 <!--
 
